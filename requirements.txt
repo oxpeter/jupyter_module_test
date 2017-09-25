@@ -1,5 +1,1 @@
-pythreejs
 matplotlib
-scipy
-scikit-image
-ipywidgets
