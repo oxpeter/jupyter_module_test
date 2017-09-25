@@ -1,0 +1,10 @@
+name: pythreejs
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - pythreejs
+  - matplotlib
+  - scipy
+  - scikit-image
+  - ipywidgets
